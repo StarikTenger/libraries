@@ -1,0 +1,2 @@
+C:\temp\box2d\build\bin\Debug\glfw.pdb
+C:\temp\box2d\build\extern\glfw\glfw.dir\Debug\glfw.pdb

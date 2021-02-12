@@ -1,0 +1,2 @@
+C:\temp\box2d\build\bin\Debug\glad.pdb
+C:\temp\box2d\build\extern\glad\glad.dir\Debug\glad.pdb

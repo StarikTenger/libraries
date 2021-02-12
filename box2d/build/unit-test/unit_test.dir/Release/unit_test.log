@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/temp/box2d/unit-test/CMakeLists.txt
+  hello_world.cpp
+  collision_test.cpp
+  joint_test.cpp
+  math_test.cpp
+  world_test.cpp
+  Generating Code...
+  unit_test.vcxproj -> C:\temp\box2d\build\bin\Release\unit_test.exe

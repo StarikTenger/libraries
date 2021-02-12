@@ -1,0 +1,73 @@
+﻿  Building Custom Rule C:/temp/box2d/testbed/CMakeLists.txt
+  draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  main.cpp
+  settings.cpp
+  test.cpp
+  add_pair.cpp
+  apply_force.cpp
+  body_types.cpp
+  box_stack.cpp
+  breakable.cpp
+  bridge.cpp
+  bullet_test.cpp
+  cantilever.cpp
+  car.cpp
+  chain.cpp
+  chain_problem.cpp
+  character_collision.cpp
+  circle_stack.cpp
+  collision_filtering.cpp
+  Generating Code...
+  Compiling...
+  collision_processing.cpp
+  compound_shapes.cpp
+  confined.cpp
+  continuous_test.cpp
+  convex_hull.cpp
+  conveyor_belt.cpp
+  distance_joint.cpp
+  distance_test.cpp
+  dominos.cpp
+  dump_loader.cpp
+  dynamic_tree.cpp
+  edge_shapes.cpp
+  edge_test.cpp
+  friction.cpp
+  gear_joint.cpp
+  heavy1.cpp
+  heavy2.cpp
+  mobile_balanced.cpp
+  mobile_unbalanced.cpp
+  motor_joint.cpp
+  Generating Code...
+  Compiling...
+  pinball.cpp
+  platformer.cpp
+  polygon_collision.cpp
+  polygon_shapes.cpp
+  prismatic_joint.cpp
+  pulley_joint.cpp
+  pyramid.cpp
+  ray_cast.cpp
+  restitution.cpp
+  revolute_joint.cpp
+  rope.cpp
+  sensor.cpp
+  shape_cast.cpp
+  shape_editing.cpp
+  skier.cpp
+  slider_crank_1.cpp
+  slider_crank_2.cpp
+  theo_jansen.cpp
+  tiles.cpp
+  time_of_impact.cpp
+  Generating Code...
+  Compiling...
+  tumbler.cpp
+  web.cpp
+  wheel_joint.cpp
+  wrecking_ball.cpp
+  Generating Code...
+  testbed.vcxproj -> C:\temp\box2d\build\bin\Release\testbed.exe

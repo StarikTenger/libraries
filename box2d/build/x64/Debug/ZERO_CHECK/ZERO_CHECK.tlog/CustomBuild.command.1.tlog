@@ -1,0 +1,10 @@
+^C:\TEMP\BOX2D\BUILD\CMAKEFILES\708F25AD85E16CEF0C5F398AD56504C4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/temp/box2d -BC:/temp/box2d/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/temp/box2d/build/box2d.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
