@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/libraries/glfw/tests/CMakeLists.txt
+  reopen.c
+  glad_gl.c
+  Generating Code...
+  reopen.vcxproj -> C:\libraries\glfw\build\tests\Release\reopen.exe
