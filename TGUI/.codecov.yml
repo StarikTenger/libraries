@@ -1,0 +1,14 @@
+comment: false
+codecov:
+  branch: "0.10"
+coverage:
+  range: 60...100
+  status:
+    project: off
+    patch: off
+    changes: off
+ignore:
+- tests/.*
+- gui-builder/.*
+- examples/.*
+- include/TGUI/extlibs/.*
